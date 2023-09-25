@@ -1,0 +1,657 @@
+fileFormatVersion: 2
+guid: c79991a612e17434ab4781de27e7adcd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RangeBullyPlus_24
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 155
+        width: 22
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba3dc9d76c293e4abc874d75d6491d0
+      internalID: -2134464736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_26
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5
+        width: 22
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9408e7fbdbd1d6f4085e3c13c30af7d9
+      internalID: -559615884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 5
+        width: 22
+        height: 72
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0193832aed6ce4f82c9c43c8249fcc
+      internalID: -1474814732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 5
+        width: 25
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca863ae43885c3b48a2e73447c103d02
+      internalID: -1061177576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_29
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 5
+        width: 27
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94382dad0ad1ade4fb59d209e48f1986
+      internalID: -1079452008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 605
+        width: 41
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116608de9402ed14e8502aead2c90df2
+      internalID: -1798085415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 605
+        width: 64
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10107115e5302394bbaa87497c5a1e1f
+      internalID: -1345510579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 605
+        width: 44
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1dbe5010c2c6b458e63bc4a9d1b061
+      internalID: 1631164288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 605
+        width: 44
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151610173f5fdec4abc2db93b967feb8
+      internalID: 647303865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 605
+        width: 46
+        height: 69
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00011a144d8c4b4da2f3b6d6409bd3b
+      internalID: 1306467641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 455
+        width: 45
+        height: 67
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0999d7094356a46962e28868aa640a
+      internalID: -117042321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_9
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 455
+        width: 43
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4abd87e88c7e814a908e7d6df19159f
+      internalID: 1543805153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_10
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 455
+        width: 43
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e61b85edfa2014eaae4a691f93317a
+      internalID: 211664636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 455
+        width: 42
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bb1b91d462325488ba5e4ab75a1122
+      internalID: 406806576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 455
+        width: 42
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abee51c30c47bf45974dd617a64a3d2
+      internalID: -1733877242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 305
+        width: 43
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9300390fa8bf42b4da49a4d44d0c042f
+      internalID: 2108103946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_14
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 305
+        width: 43
+        height: 71
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9dd6a342e105478b339a96630ee1a
+      internalID: -63083033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 305
+        width: 42
+        height: 70
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f75e029ec9f764899d14992fe3d0d7
+      internalID: -889583642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_16
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 305
+        width: 38
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0cfb3362fb2a4a9a8b40e5ee3dcda
+      internalID: 1635231544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_17
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 305
+        width: 40
+        height: 59
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77239a1c03f654a4781fb412aa29a0a0
+      internalID: -192141160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_19
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 155
+        width: 41
+        height: 52
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261d9d16ce6f8d1409106aacb1f25e0f
+      internalID: 567012146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 155
+        width: 40
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5504490397fb04246a8f482ab0603ae6
+      internalID: -1487037758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_22
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 155
+        width: 40
+        height: 46
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360fe99a1207ede4faca0788cf21fa4c
+      internalID: -803176530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RangeBullyPlus_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 155
+        width: 40
+        height: 45
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4612c97ceb28af44cbefcc7581fb5ec7
+      internalID: -1734476378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RangeBullyPlus_18: 474291489
+      RangeBullyPlus_4: 1631164288
+      RangeBullyPlus_11: 406806576
+      RangeBullyPlus_22: -803176530
+      RangeBullyPlus_24: -2134464736
+      RangeBullyPlus_2: 1770513245
+      RangeBullyPlus_13: 2108103946
+      RangeBullyPlus_3: 1899196607
+      RangeBullyPlus_6: 647303865
+      RangeBullyPlus_5: 386057651
+      RangeBullyPlus_9: 1543805153
+      RangeBullyPlus_16: 1635231544
+      RangeBullyPlus_21: -1487037758
+      RangeBullyPlus_19: 567012146
+      RangeBullyPlus_29: -1079452008
+      RangeBullyPlus_23: -1734476378
+      RangeBullyPlus_0: -1798085415
+      RangeBullyPlus_27: -1474814732
+      RangeBullyPlus_15: -889583642
+      RangeBullyPlus_26: -559615884
+      RangeBullyPlus_10: 211664636
+      RangeBullyPlus_7: 1306467641
+      RangeBullyPlus_25: 211947285
+      RangeBullyPlus_1: -1345510579
+      RangeBullyPlus_8: -117042321
+      RangeBullyPlus_17: -192141160
+      RangeBullyPlus_12: -1733877242
+      RangeBullyPlus_20: -1341504293
+      RangeBullyPlus_28: -1061177576
+      RangeBullyPlus_14: -63083033
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

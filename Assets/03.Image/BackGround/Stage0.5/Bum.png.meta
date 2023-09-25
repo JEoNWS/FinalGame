@@ -1,0 +1,1157 @@
+fileFormatVersion: 2
+guid: 46bb19e59e9bb534a8ab9e3fe44e8d3e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bum_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2125
+        width: 132
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70bfafcf860ef0a41bb620d8913e0981
+      internalID: 1317987575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2125
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076648c0d742b884f8ca6c29e0807af8
+      internalID: 1496318496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2125
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413b70e168b3e5e4e8b36c07e170a6d6
+      internalID: -124366054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_3
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 2125
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55546e3005a13f74fb27f3708a0fd53a
+      internalID: 582045858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_4
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2125
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb3a1626937034b877c03ae2bfa128
+      internalID: 46628171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 2125
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe362b96d482949990e4b89f778be3
+      internalID: -1085485229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_6
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 2125
+        width: 132
+        height: 299
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b1ec2ab41e264daf3cbde22f62b74
+      internalID: -1367947005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_7
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac7d4cce2ddadf4c96fcf1cc2259983
+      internalID: -710604713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685c89a895c81c41bc34672c99c3ce5
+      internalID: 2101078694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_9
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1c9a29ca6ff644c972a496b69c17ff
+      internalID: -975691520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_10
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c6068e9c3e14441b6e794d0f31998c
+      internalID: 296158453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_11
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bee1e9fc3aa694884548d9ea231bf9
+      internalID: 1129461213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_12
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4ff05fbffaca249a30059a40747413
+      internalID: -1377332696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_13
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1775
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81ab6b9e608e5a48921c23fe7ef810b
+      internalID: 898007070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_14
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d2a7f43d150444ab94586b92e90cd
+      internalID: 1849902069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_15
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae72a5f60b1f3244cbbc5fca97ac46f6
+      internalID: 1390566119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1f4c65f79b52840846af079d1c26fb
+      internalID: -749588212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_17
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72adb8df4af7b5468c49660192e6f59
+      internalID: 1620121263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_18
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478fb391a0ecbac4ab0cd998a14dd357
+      internalID: -855310170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_19
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8f99170645144ca023b322d50fad7
+      internalID: -1033595380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_20
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1425
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8c0a0017f4b245a1e116f1e81a93f
+      internalID: -1609666416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_21
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc7605619af3f04eb7d722df3d1acfa
+      internalID: -228191663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddeb0d06a29c9498549c39ce87ec71
+      internalID: -1642570112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_23
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594426c452e92c644bac4c6dd23b573d
+      internalID: -868399875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_24
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2082c820335a20409b16c5a9bb6d064
+      internalID: -45061339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_25
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac946a7514a6ff4aa8a589facd963f9
+      internalID: -816340389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_26
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84492dd2c0351604dbe79f24b599420b
+      internalID: -114241522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_27
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1075
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800fd2a310af46e4a87788c62cb896c7
+      internalID: 944547217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_28
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6a700b09e605e4a83507f7c84f64e3
+      internalID: -509378953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83d4d3d8df7a2b4d9ce8f3b40914832
+      internalID: 829325562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_30
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cd1acf61b0a4948a56b7a8e0661a4d
+      internalID: 2060574954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_31
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96679eac81c16874d8872c3f538152ca
+      internalID: -1081999327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_32
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a9ac6644adcb42a59f63995a636e0
+      internalID: -1575538464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_33
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516fcc1a0ea209744ae9edd916869b10
+      internalID: -782549468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_34
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 725
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9955ff52e0da7541ae95cf3a2d9697d
+      internalID: -657012622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_35
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed906300d841f04db0721eb98797bed
+      internalID: -1822635925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a59abc834c9045ba778cb8d63dd6d
+      internalID: 872240779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d7d3d36a9b25048b8ff952be0d72d4
+      internalID: 591488669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_38
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed1e87f9b1d183428c3d79fc8553879
+      internalID: 1356641049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_39
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c059545bf414248a65e7cc44b55b8b
+      internalID: 471751324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_40
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbebcd9d5bdb0444d861c6398028faa4
+      internalID: 1660029888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_41
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 375
+        width: 132
+        height: 300
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63492001c8c492b40a621f610910ddfb
+      internalID: -212581710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 25
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb280c61c832a84bbae52aafb0e9a26
+      internalID: 1303890949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_43
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 25
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6972ee936e9f2488cefd7a91cf0421
+      internalID: 1906975027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_44
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 25
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6977335ccc715b4194b9339bfa59457
+      internalID: 719872150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_45
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 25
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da04abba4cfc6d94f9c7abf1e323e2d9
+      internalID: -907141504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bum_46
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 25
+        width: 132
+        height: 301
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8724c2f98600925429b13f4b916e0c9f
+      internalID: 1399926947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Bum_33: -782549468
+      Bum_38: 1356641049
+      Bum_3: 582045858
+      Bum_15: 1390566119
+      Bum_21: -228191663
+      Bum_9: -975691520
+      Bum_8: 2101078694
+      Bum_19: -1033595380
+      Bum_24: -45061339
+      Bum_2: -124366054
+      Bum_35: -1822635925
+      Bum_7: -710604713
+      Bum_39: 471751324
+      Bum_22: -1642570112
+      Bum_28: -509378953
+      Bum_26: -114241522
+      Bum_44: 719872150
+      Bum_46: 1399926947
+      Bum_13: 898007070
+      Bum_29: 829325562
+      Bum_41: -212581710
+      Bum_10: 296158453
+      Bum_11: 1129461213
+      Bum_43: 1906975027
+      Bum_0: 1317987575
+      Bum_16: -749588212
+      Bum_18: -855310170
+      Bum_36: 872240779
+      Bum_17: 1620121263
+      Bum_42: 1303890949
+      Bum_45: -907141504
+      Bum_4: 46628171
+      Bum_12: -1377332696
+      Bum_32: -1575538464
+      Bum_30: 2060574954
+      Bum_23: -868399875
+      Bum_25: -816340389
+      Bum_6: -1367947005
+      Bum_37: 591488669
+      Bum_5: -1085485229
+      Bum_31: -1081999327
+      Bum_1: 1496318496
+      Bum_40: 1660029888
+      Bum_34: -657012622
+      Bum_27: 944547217
+      Bum_14: 1849902069
+      Bum_20: -1609666416
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

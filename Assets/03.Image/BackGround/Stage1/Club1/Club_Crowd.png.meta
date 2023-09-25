@@ -1,0 +1,1091 @@
+fileFormatVersion: 2
+guid: 0f0c8e2788e8b7749945a161f4ba3660
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Club_Crowd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4687
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a638bc52af3647a64c400144cf908
+      internalID: 1559766932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4578
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e481c385ec5a4459678c806c15dcc1
+      internalID: 1257934847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4469
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0b231ed5f467b428342881681917bb
+      internalID: 1485760361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4360
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7c66261341b24b8a0e443d4919034
+      internalID: -1455584927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4251
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09256f098acde75418b4833ac69ee037
+      internalID: 1724584361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4142
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5220627c6e8661a4fb1abb591f5425ea
+      internalID: 1877039973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4033
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070c1dab9566f2749b7f813fe4e619d8
+      internalID: -1398251854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3924
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9d44d7e861640458948da1a475791a
+      internalID: -453885189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3815
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0a0235a4d511148a0218ab23518b2b
+      internalID: 2117303870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3706
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e29f74f83b70c4caa7054dffccbb27
+      internalID: -1768521724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3597
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6cf1e7b81af5f45a7eeb96123244b7
+      internalID: 766379225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3488
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0efff6268cf2f42aea236dae82193a
+      internalID: 438868968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3379
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a994e29ef2f2964f8d993d99102e877
+      internalID: 1688043466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3270
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc9b5e0871828248b84a2ff44119406
+      internalID: -501255595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3161
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9cc6b9b1b999344b81b7c70177d326
+      internalID: -368930660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3052
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16b901eea50e44a943e7a32dc49f8b
+      internalID: -2029752593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2943
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7171328ee7d84724f86626dbe39e7228
+      internalID: 873900664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2834
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070dd0913d0ac8646a228511570f1e1c
+      internalID: -704162984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2725
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8df74acb1a3a64b98ae1e9751e71d2
+      internalID: 2089103286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2616
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec04581479425854d9aff2fe48a5f0b7
+      internalID: 1448796212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2507
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d441c81b3c27a4a825df146b8beffd
+      internalID: -767273849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2398
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e9f7ccfa6b4044596437e84c97d871
+      internalID: -1037216756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2289
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab97d01a9fd274c4dac9a6d6520bda0b
+      internalID: -293508193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2180
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e5916a846e5b64799adcd42936f42b
+      internalID: 170426417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2071
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d9adc93fa8b0b42af5cd438ec48861
+      internalID: -1456842089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1962
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d3fdeb8e0c5544c9e689fb87a68b94
+      internalID: -597853391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1853
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1662201c3e1bf884f89a254469b2d8ea
+      internalID: 1657231731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1744
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3b002a0dbb6d0449c4a6316898c5af
+      internalID: 491104510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1635
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c8fc1dd6a10fe4bbbb124d3a7ebbd2
+      internalID: 554321618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1526
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33780b8afc8c816499a42526cc541d5a
+      internalID: -1508969055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1417
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71748b3381ae3f4bbc905b36818ae34
+      internalID: -880616482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e337b5a5dd07d245a5e49674131fcd0
+      internalID: 1208687235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1199
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73902ca5861b584292dbb26f5dd595b
+      internalID: -1999655645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1090
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a6605d4780192146a825c79fb3fd765
+      internalID: -1461802106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 981
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0329d89a7e7b440b115e3cac2d5746
+      internalID: -274497827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 872
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fad554cf1f34f94199d2bff6b230a78
+      internalID: -1880933991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 763
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4206b6915d401434db79ae4f41c1e724
+      internalID: -601296540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 654
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ee96c2e856c754a928a896561ad470
+      internalID: -960135604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 545
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fece7cdb01f89434ba2abb2cd6400012
+      internalID: 81688929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 436
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c87f5829e438c14f88988714c7c0813
+      internalID: -1086889604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 327
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adbc614e3c407b43992ed139993b90e
+      internalID: 1383448281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629c6269fbfee664b8e404a5a82b7fef
+      internalID: -144340076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 109
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9b3cfbb520e90469283a13e936b2ae
+      internalID: 1800235713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Club_Crowd_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 658
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfbafa537bc2b4439eb30e8d91ef822
+      internalID: -908559534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Club_Crowd_2: 1485760361
+      Club_Crowd_36: -601296540
+      Club_Crowd_21: -1037216756
+      Club_Crowd_26: 1657231731
+      Club_Crowd_22: -293508193
+      Club_Crowd_30: -880616482
+      Club_Crowd_9: -1768521724
+      Club_Crowd_4: 1724584361
+      Club_Crowd_17: -704162984
+      Club_Crowd_10: 766379225
+      Club_Crowd_42: 1800235713
+      Club_Crowd_0: 1559766932
+      Club_Crowd_15: -2029752593
+      Club_Crowd_20: -767273849
+      Club_Crowd_6: -1398251854
+      Club_Crowd_27: 491104510
+      Club_Crowd_43: -908559534
+      Club_Crowd_35: -1880933991
+      Club_Crowd_34: -274497827
+      Club_Crowd_25: -597853391
+      Club_Crowd_14: -368930660
+      Club_Crowd_19: 1448796212
+      Club_Crowd_13: -501255595
+      Club_Crowd_39: -1086889604
+      Club_Crowd_7: -453885189
+      Club_Crowd_32: -1999655645
+      Club_Crowd_37: -960135604
+      Club_Crowd_12: 1688043466
+      Club_Crowd_3: -1455584927
+      Club_Crowd_40: 1383448281
+      Club_Crowd_28: 554321618
+      Club_Crowd_1: 1257934847
+      Club_Crowd_5: 1877039973
+      Club_Crowd_33: -1461802106
+      Club_Crowd_18: 2089103286
+      Club_Crowd_29: -1508969055
+      Club_Crowd_38: 81688929
+      Club_Crowd_31: 1208687235
+      Club_Crowd_24: -1456842089
+      Club_Crowd_16: 873900664
+      Club_Crowd_41: -144340076
+      Club_Crowd_11: 438868968
+      Club_Crowd_8: 2117303870
+      Club_Crowd_23: 170426417
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

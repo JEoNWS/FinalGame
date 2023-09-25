@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: 61de72774cfbcfb4997554ae2eb10a98
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CloseBully_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 804
+        width: 30
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31acc4d0e6eb4bf43b9dc1179f39b869
+      internalID: 1356622599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 804
+        width: 31
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f459f776f892c27419e61983094699d0
+      internalID: -1721390407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 804
+        width: 31
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b1199e8f58fac47a68df8a10542b99
+      internalID: 1623386913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 804
+        width: 32
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4366f869ef3cb8446b6750bbabd64aaf
+      internalID: -1912894354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_4
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 804
+        width: 34
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb5915af45a9cf14380f0615d6dfe512
+      internalID: -324314408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_5
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 804
+        width: 34
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11a561d4eed344479dda7d5baf17ddf
+      internalID: -1505103261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_6
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 804
+        width: 34
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9a6477da8ba414fb7d96e4f6c7d2c4
+      internalID: -1246259761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_7
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 804
+        width: 33
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb0633d969cc84a8c0c8677b1c1783
+      internalID: 438878415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_8
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 804
+        width: 35
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281259a7a4dac6447a91c845855b1188
+      internalID: -132261869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 704
+        width: 38
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60b86cac1f7ab419855d38e1eb7f3b
+      internalID: 1787847105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 704
+        width: 36
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a004b85fe071ad24bb51366fafac8ee4
+      internalID: -77808639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_11
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 704
+        width: 36
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf15c1ac11cb3d41816c0fdea397d21
+      internalID: 1035260238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_12
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 704
+        width: 37
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7206b8ca33d17e44f8173f75f47cd50d
+      internalID: -1771822540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_13
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 704
+        width: 36
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c950465d93ae3d94eb75e0d24e4f85dd
+      internalID: -790988985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_14
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 704
+        width: 39
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d6086ed954295488af6f8eb502add5
+      internalID: 673596567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_15
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 704
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9dc77654946144eb98c1cdc4df112e
+      internalID: -10989943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_16
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 704
+        width: 50
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7817f1db50d14f04b923e7e89d5dfa7f
+      internalID: -274049056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_17
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 704
+        width: 46
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d4e0eeb19ec448b29b893689d3c02
+      internalID: 994205687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_18
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 604
+        width: 31
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e3c21d9c98155458e8ecd35c5e150b
+      internalID: -1402309143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 604
+        width: 34
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a80b191cb1b441956d958d41a8d05
+      internalID: 2059169846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 604
+        width: 27
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0707e4fc44f383a44ae6d3bf1ab14a07
+      internalID: 472211553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_21
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 604
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1080b29c49bc342873a8ccfc855c8f
+      internalID: -77853132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_22
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 604
+        width: 30
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa54da34d7056146bbbc4644286a754
+      internalID: -1659918231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_23
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 604
+        width: 35
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06682fecacd9fcc44a73c65cbfe027ec
+      internalID: -1614153675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_24
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 604
+        width: 33
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5660cdb330029045a6ce0bd5983f122
+      internalID: -1456475439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 604
+        width: 58
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f42134eb6e51a0f4f8de0a3d766be290
+      internalID: 1739218225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_26
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 604
+        width: 60
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fc08be89a1b6544a7e21b0fb89231a
+      internalID: 2090629236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_27
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 504
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65d86c3855e9844c8eeeadfb08682cd
+      internalID: 1706731123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_28
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 504
+        width: 51
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa24c96cf90551147a8395eabfd2830a
+      internalID: 1459145437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_29
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 504
+        width: 33
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a2edf67463c46469f0daf31e90d201
+      internalID: -1700379913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_30
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 504
+        width: 48
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de77dcbc21ba649448326fc7f1771f5d
+      internalID: -783131008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_31
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 504
+        width: 54
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda5fea3106d39347bfcef8335ea59c6
+      internalID: -1501767890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_32
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 504
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c049780288f3bcd44a6914a1bbfeaa8a
+      internalID: -1905599077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_33
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 504
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9268b505226e5c4a8ee3ae9a5aed5b3
+      internalID: -2035644926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_34
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 504
+        width: 56
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85c36897026b9e48af929b873ae7da8
+      internalID: 1638573649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_35
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 504
+        width: 65
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50b93d4c53b6de46add08c9ba9e9262
+      internalID: -442147525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 404
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce4ebac291c704d9528da9d9e96799
+      internalID: -475721231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_37
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 404
+        width: 48
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8092a2ea752a440bec9a402b3ca039
+      internalID: -735442141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 404
+        width: 46
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a790c4d40f9234481e45f48bd4c906
+      internalID: 337862962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_39
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 404
+        width: 49
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b236739d19ac74d831666fdd7fed18
+      internalID: -459135547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_40
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 404
+        width: 44
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7eabed4f5a95546b197537e58cf89e
+      internalID: -164195125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_41
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 404
+        width: 42
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa69594302edca4ab1b5de7276a2ba8
+      internalID: -1188961725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_42
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 404
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e66772062463d54e9c7301b828c078a
+      internalID: -1753942125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_43
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 404
+        width: 42
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b438952513bef2468e02c09f32d7019
+      internalID: -442785596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_44
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 404
+        width: 50
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0baf16e909c854459ba97d07ffa5da0
+      internalID: 1268583272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_45
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 304
+        width: 49
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c764817bb8a8b694a8f1c98dd5cec8f5
+      internalID: -346519296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_46
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 304
+        width: 49
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153ac196744e6b547bdbc9167ddf1496
+      internalID: -1995178186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 304
+        width: 46
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50dce2970fe03ac4b85c57fcda0eb1b5
+      internalID: 1898314323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_48
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 304
+        width: 41
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9b1fbe01ee864d8f47b523d3ba62f
+      internalID: -1333572025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_49
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 304
+        width: 39
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d397a25bae8c30e47aca305dae0396ee
+      internalID: -751104550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_50
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 304
+        width: 42
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a342311f34ed344a4739f3737bafa1
+      internalID: 2032925628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_51
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 304
+        width: 41
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915c0248d775b3149b98a9dd10473e43
+      internalID: -2047269652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_52
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 304
+        width: 40
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a42d24e12fb7d408c0e4b5a00345b3
+      internalID: -2084218254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_53
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 304
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 826029558c2fea7459bb32c62872ca0d
+      internalID: 767230035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_54
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 204
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6231782f83234d8469b9e2db28732a45
+      internalID: -1586105558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_55
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 204
+        width: 38
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ec90956c4e7484a96e953669f658d4
+      internalID: -865338009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 204
+        width: 53
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c30695df3f8ce48aace283d3303e6c
+      internalID: -137593223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_57
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 204
+        width: 47
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89ff94df25b0ce48b2a3160cc07086e
+      internalID: 1362804018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_58
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 204
+        width: 83
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33edd6402d63994ead898873f28e6c4
+      internalID: -525326934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_60
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 204
+        width: 71
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3d9f99942fb824c82a2764458e8415
+      internalID: -457617173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_62
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 204
+        width: 60
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3eac2d87877049911d51e6fc6f497
+      internalID: -670135078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_64
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 204
+        width: 53
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35d67ea9cf3ce4dbc67a54ceeaca68
+      internalID: -104417186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_65
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 204
+        width: 54
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21a4237f02e6b642a85485a3ba9d455
+      internalID: 841188354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 54
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0844e5f6fee67146abbe17d388556e8
+      internalID: -1816690392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_67
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 104
+        width: 45
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68834f84c9acd7341b85a4747775a5bc
+      internalID: 264689448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 104
+        width: 27
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e290f0e783460bd40b002f2f29e97960
+      internalID: 2038393468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_69
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 104
+        width: 24
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7416f8de174ea4ea2b1eb178ba8c62
+      internalID: -960929169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_70
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 104
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969e9262890266444b161c4f84f4732f
+      internalID: -571002127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_71
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 104
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca6b2bb584af9e4f9052d740d377437
+      internalID: -1177841175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_72
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 104
+        width: 65
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2acb5a869fdf34292110f67e99bed6
+      internalID: 460567475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_73
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 104
+        width: 65
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 948aadadfef82514d8c4aa70e2023ce8
+      internalID: -1170652483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_74
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 104
+        width: 65
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb34a86e507e46944ae6fb33f7e12836
+      internalID: -178924447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_76
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 4
+        width: 61
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98260789acd6624b8f3a0fdcf38a8d8
+      internalID: 1686344205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_78
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 4
+        width: 57
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfc4e65cd5ff2c4b8086a5fe94fbd5c
+      internalID: -2110239135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_79
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 4
+        width: 57
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a954cf3aa40133478418b86a8c8422a
+      internalID: 885942237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_80
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 4
+        width: 60
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7aaf51ab71a8c48ac6e3de6bfae120
+      internalID: -953090312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_81
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 4
+        width: 87
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db4f9976e595a84a99f596de28f7b71
+      internalID: -2011757426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CloseBully_82
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 4
+        width: 87
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e1e6981cc6e44cafce9910d0f0ff0
+      internalID: -199132986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CloseBully_23: -1614153675
+      CloseBully_55: -865338009
+      CloseBully_59: 2066750967
+      CloseBully_7: 438878415
+      CloseBully_38: 337862962
+      CloseBully_31: -1501767890
+      CloseBully_45: -346519296
+      CloseBully_52: -2084218254
+      CloseBully_62: -670135078
+      CloseBully_29: -1700379913
+      CloseBully_54: -1586105558
+      CloseBully_6: -1246259761
+      CloseBully_56: -137593223
+      CloseBully_58: -525326934
+      CloseBully_63: -376140102
+      CloseBully_57: 1362804018
+      CloseBully_11: 1035260238
+      CloseBully_64: -104417186
+      CloseBully_49: -751104550
+      CloseBully_67: 264689448
+      CloseBully_39: -459135547
+      CloseBully_48: -1333572025
+      CloseBully_82: -199132986
+      CloseBully_61: -1303717731
+      CloseBully_44: 1268583272
+      CloseBully_20: 472211553
+      CloseBully_50: 2032925628
+      CloseBully_10: -77808639
+      CloseBully_78: -2110239135
+      CloseBully_32: -1905599077
+      CloseBully_68: 2038393468
+      CloseBully_5: -1505103261
+      CloseBully_42: -1753942125
+      CloseBully_72: 460567475
+      CloseBully_36: -475721231
+      CloseBully_43: -442785596
+      CloseBully_71: -1177841175
+      CloseBully_76: 1686344205
+      CloseBully_80: -953090312
+      CloseBully_24: -1456475439
+      CloseBully_3: -1912894354
+      CloseBully_79: 885942237
+      CloseBully_35: -442147525
+      CloseBully_15: -10989943
+      CloseBully_1: -1721390407
+      CloseBully_47: 1898314323
+      CloseBully_12: -1771822540
+      CloseBully_26: 2090629236
+      CloseBully_41: -1188961725
+      CloseBully_8: -132261869
+      CloseBully_27: 1706731123
+      CloseBully_33: -2035644926
+      CloseBully_77: 1153828215
+      CloseBully_16: -274049056
+      CloseBully_74: -178924447
+      CloseBully_51: -2047269652
+      CloseBully_13: -790988985
+      CloseBully_9: 1787847105
+      CloseBully_65: 841188354
+      CloseBully_21: -77853132
+      CloseBully_37: -735442141
+      CloseBully_60: -457617173
+      CloseBully_53: 767230035
+      CloseBully_4: -324314408
+      CloseBully_25: 1739218225
+      CloseBully_40: -164195125
+      CloseBully_66: -1816690392
+      CloseBully_18: -1402309143
+      CloseBully_75: 1103960306
+      CloseBully_30: -783131008
+      CloseBully_69: -960929169
+      CloseBully_70: -571002127
+      CloseBully_81: -2011757426
+      CloseBully_0: 1356622599
+      CloseBully_19: 2059169846
+      CloseBully_73: -1170652483
+      CloseBully_22: -1659918231
+      CloseBully_34: 1638573649
+      CloseBully_2: 1623386913
+      CloseBully_28: 1459145437
+      CloseBully_17: 994205687
+      CloseBully_14: 673596567
+      CloseBully_46: -1995178186
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

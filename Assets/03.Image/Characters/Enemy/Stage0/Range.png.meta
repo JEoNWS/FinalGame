@@ -1,0 +1,995 @@
+fileFormatVersion: 2
+guid: 0f74d91d3abfabf4b8a0f1f5abacc039
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Range_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c940898ec7be28549a5a79ec8cb2b0bf
+      internalID: 174103021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9f0a0f87741404ca7edccbc8501d2f
+      internalID: -876911143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_2
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b77a662373a044a9af367bfe2be6f4
+      internalID: -331621660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_3
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fb3a28f0bd2a0c47a4ba250b1d4ca70
+      internalID: 1805317752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0b81fb99613a40ac716dfd367dcc9
+      internalID: -1052383579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_5
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f96bf2dcd914db48b3f9d29bd9757fa
+      internalID: -1003357278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_6
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ccf13ab1c0e274c86df1136201a02c
+      internalID: -1704285172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_7
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8407bb8feb54b4596a4f0656d10814
+      internalID: -2142788218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_8
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972095ba602327f4fbc1009a87298e8f
+      internalID: 107019104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_9
+      rect:
+        serializedVersion: 2
+        x: 2628
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57428bcf937bf7440bd54bb250c2ed9b
+      internalID: -237018819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_10
+      rect:
+        serializedVersion: 2
+        x: 2920
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46242050090ef94aa6cee23d4fe72e0
+      internalID: -998991479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_11
+      rect:
+        serializedVersion: 2
+        x: 3212
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b278f3bdfdc0a49820829bb097a691
+      internalID: -1018699269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_12
+      rect:
+        serializedVersion: 2
+        x: 3504
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b56188332fcc2f49872e8d28e02fbaa
+      internalID: 1955563813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_13
+      rect:
+        serializedVersion: 2
+        x: 3796
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c842e75490baaa14ca4d11b48a4fcb10
+      internalID: 923804721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_14
+      rect:
+        serializedVersion: 2
+        x: 4088
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150f347baedfce4a9f60b43cc61c028
+      internalID: -896858047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_15
+      rect:
+        serializedVersion: 2
+        x: 4380
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c2fdc2ceccf1479401d464a146207
+      internalID: -1514404457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_16
+      rect:
+        serializedVersion: 2
+        x: 4672
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ebb095b0d9f2e42914f7c0ded371b6
+      internalID: -2063563648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_17
+      rect:
+        serializedVersion: 2
+        x: 4964
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7670448a78ffc924e9c8bcc12afcabd4
+      internalID: -803732536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_18
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83769dbbc41fd9419dce4dbde151585
+      internalID: -1852078791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_19
+      rect:
+        serializedVersion: 2
+        x: 5548
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21460f72abdd9714393d6693b2b92d36
+      internalID: 1938736908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_20
+      rect:
+        serializedVersion: 2
+        x: 5840
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206edc327fc2b6544a0b7409a6d98594
+      internalID: -1020190557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_21
+      rect:
+        serializedVersion: 2
+        x: 6132
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f326676b600a3347ae2e8fe1780cd4e
+      internalID: -1612226775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_22
+      rect:
+        serializedVersion: 2
+        x: 6424
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7274bf9be450e62459bf404cfd9e9222
+      internalID: -1956269941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_23
+      rect:
+        serializedVersion: 2
+        x: 6716
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.88, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9641bf8c94aa0c140ba2d72c7400a9d4
+      internalID: -24278549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_24
+      rect:
+        serializedVersion: 2
+        x: 7008
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.88, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac6d6078d72c4f4b87a48140df64c0d
+      internalID: 446952546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_25
+      rect:
+        serializedVersion: 2
+        x: 7300
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.88, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d959f028ed52b4d97e8524febcfc06
+      internalID: -1195821391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_26
+      rect:
+        serializedVersion: 2
+        x: 7592
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.89, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36c7264a1adf4d4ba2b12c95f343fd3
+      internalID: 222600169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_27
+      rect:
+        serializedVersion: 2
+        x: 7884
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.9, y: 0.044833157}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e536fb2f21c169b43ad282c513317aad
+      internalID: 915615626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_28
+      rect:
+        serializedVersion: 2
+        x: 8177
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.9, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d25c8694e8cc4f8db353ee5c1aed3
+      internalID: -1963498325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_29
+      rect:
+        serializedVersion: 2
+        x: 8468
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.9, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa07f03ed13044baa798386b166e3a
+      internalID: -2095941282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_30
+      rect:
+        serializedVersion: 2
+        x: 8760
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd81edd3349eed4a9fa2107f9a18583
+      internalID: -1105962925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_31
+      rect:
+        serializedVersion: 2
+        x: 9052
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44b8d3a16b90fc4f87cb5ef7042eedd
+      internalID: 1588203836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_32
+      rect:
+        serializedVersion: 2
+        x: 9344
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b11d0e1c1c7435b48b78c19a18fe880a
+      internalID: -1985641561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_33
+      rect:
+        serializedVersion: 2
+        x: 9636
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9664d767f5f67429d4617a1bd14eb1
+      internalID: -1368657703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_34
+      rect:
+        serializedVersion: 2
+        x: 9928
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9945883c06db67e4db3077a567ecd6c7
+      internalID: 856325466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_35
+      rect:
+        serializedVersion: 2
+        x: 10220
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a4ec8a481d46a43a586e5cad702159
+      internalID: 1799359874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_36
+      rect:
+        serializedVersion: 2
+        x: 10512
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e1aa2e101a953498cbfba5b5fefcb3
+      internalID: -259674698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Range_37
+      rect:
+        serializedVersion: 2
+        x: 10804
+        y: 0
+        width: 292
+        height: 65
+      alignment: 9
+      pivot: {x: 0.19, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c34c91488b0e49a0d9ecd85f3f0a3
+      internalID: -1139863305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Range_37: -1139863305
+      Range_11: -1018699269
+      Range_29: -2095941282
+      Range_4: -1052383579
+      Range_36: -259674698
+      Range_5: -1003357278
+      Range_28: -1963498325
+      Range_7: -2142788218
+      Range_31: 1588203836
+      Range_0: 174103021
+      Range_3: 1805317752
+      Range_12: 1955563813
+      Range_24: 446952546
+      Range_32: -1985641561
+      Range_27: 915615626
+      Range_33: -1368657703
+      Range_13: 923804721
+      Range_20: -1020190557
+      Range_8: 107019104
+      Range_2: -331621660
+      Range_16: -2063563648
+      Range_23: -24278549
+      Range_30: -1105962925
+      Range_19: 1938736908
+      Range_17: -803732536
+      Range_34: 856325466
+      Range_21: -1612226775
+      Range_6: -1704285172
+      Range_14: -896858047
+      Range_10: -998991479
+      Range_25: -1195821391
+      Range_22: -1956269941
+      Range_1: -876911143
+      Range_9: -237018819
+      Range_18: -1852078791
+      Range_26: 222600169
+      Range_35: 1799359874
+      Range_15: -1514404457
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
