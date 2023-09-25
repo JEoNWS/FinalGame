@@ -147,18 +147,18 @@ public class RobotBoss : Enemy
                 anim.SetTrigger("Fall");
                 jump = false;
                 fall = true;
+                gravity = 5.0f;
             }
         }
         else if(fall)
         {
             transform.position -= Vector3.up * gravity * Time.deltaTime;
-            gravity += 0.1f;
+            gravity += 0.15f;
             if(transform.position.y < floorY)
             {
                 anim.SetBool("IsGround", true);
                 fall = false;
                 transform.position = new Vector3(transform.position.x, floorY, 0.0f);
-                gravity = 5.0f;
                 if(rayAttack)
                 {
                     anim.SetBool("Lasor", true);
@@ -332,6 +332,7 @@ public class RobotBoss : Enemy
     void FallBool()
     {
         fall = true;
+        gravity = 5.0f;
     }
     void LasorAttack()
     {

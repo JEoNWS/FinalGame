@@ -98,7 +98,7 @@ public class Hyunmoo : Enemy
         {
             transform.position += transform.right * 20.0f * Time.deltaTime;
         }
-        transform.position = new Vector3(Mathf.Clamp(transform.position.x, 97.0f, 127.0f), transform.position.y, 0);
+        transform.position = new Vector3(Mathf.Clamp(transform.position.x, 118.0f, 148.0f), transform.position.y, 0);
     }
     private void OnTriggerEnter2D(Collider2D other)
     {

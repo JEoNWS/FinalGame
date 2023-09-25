@@ -52,7 +52,7 @@ public class Stage03Manager : MonoBehaviour
             case 4:
                 if (doOnce == 6)
                 {
-                    wall.transform.GetChild(0).transform.position = new Vector3(150.75f, 0.0f, 0.0f);
+                    wall.transform.GetChild(0).transform.position = new Vector3(149.5f, 0.0f, 0.0f);
                     CameraManager.GetInstance().cantMove = false;
                     CameraManager.GetInstance().ResetCamera();
                     doOnce++;
@@ -67,7 +67,7 @@ public class Stage03Manager : MonoBehaviour
                 if (CameraManager.GetInstance().transform.position.x >= (16.0f) + (xMove) * (doOnce + 1) / 2)
                 {
                     CameraManager.GetInstance().cantMove = true;
-                    CameraManager.GetInstance().transform.position = new Vector3((16.0f) + (xMove) * (doOnce + 1) / 2, 4.0f, -10.0f);
+                    CameraManager.GetInstance().transform.position = new Vector3((16.0f) + (xMove) * (doOnce + 1) / 2, 4.5f, -10.0f);
                     wall.transform.GetChild(1).transform.position += Vector3.right * xMove;
                     enemies[doOnce / 2].SetActive(true); // 0
                     doOnce++;
@@ -77,7 +77,7 @@ public class Stage03Manager : MonoBehaviour
                 if (CameraManager.GetInstance().transform.position.x >= (16.0f) + (xMove) * (doOnce + 1) / 2)
                 {
                     CameraManager.GetInstance().cantMove = true;
-                    CameraManager.GetInstance().transform.position = new Vector3((16.0f) + (xMove) * (doOnce + 1) / 2, 4.0f, -10.0f);
+                    CameraManager.GetInstance().transform.position = new Vector3((16.0f) + (xMove) * (doOnce + 1) / 2, 4.5f, -10.0f);
                     wall.transform.GetChild(1).transform.position += Vector3.right * xMove;
                     enemies[doOnce / 2].SetActive(true);
                     doOnce++;
@@ -87,18 +87,18 @@ public class Stage03Manager : MonoBehaviour
                 if (CameraManager.GetInstance().transform.position.x >= (16.0f) + (xMove) * (doOnce + 1) / 2)
                 {
                     CameraManager.GetInstance().cantMove = true;
-                    CameraManager.GetInstance().transform.position = new Vector3((16.0f) + (xMove) * (doOnce + 1) / 2, 4.0f, -10.0f);
+                    CameraManager.GetInstance().transform.position = new Vector3((16.0f) + (xMove) * (doOnce + 1) / 2, 4.5f, -10.0f);
                     wall.transform.GetChild(1).transform.position += Vector3.right * xMove;
                     enemies[doOnce / 2].SetActive(true);
                     doOnce++;
                 }
                 break;
             case 7:
-                if (CameraManager.GetInstance().transform.position.x >= (16.0f) + (xMove) * (doOnce + 1) / 2)
+                if (CameraManager.GetInstance().transform.position.x >= 133.0f)
                 {
                     CameraManager.GetInstance().cantMove = true;
-                    CameraManager.GetInstance().transform.position = new Vector3(135.5f, 4.0f, -10.0f);
-                    wall.transform.GetChild(1).transform.position = new Vector3(120.25f, 10.0f, 0.0f);
+                    CameraManager.GetInstance().transform.position = new Vector3(133.0f, 4.5f, -10.0f);
+                    wall.transform.GetChild(1).transform.position = new Vector3(119.5f, 0.0f, 0.0f);
                     enemies[doOnce / 2].SetActive(true);
                     doOnce++;
                 }

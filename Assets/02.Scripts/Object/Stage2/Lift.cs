@@ -16,6 +16,10 @@ public class Lift : MonoBehaviour
     Collider2D floorCollider;
     public static int deadEnemyCount;
     bool canMove;
+    private void Start()
+    {
+        deadEnemyCount = 0;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {

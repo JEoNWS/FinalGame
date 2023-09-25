@@ -122,7 +122,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7866124323731136663
 Transform:
   m_ObjectHideFlags: 0
@@ -234,6 +234,7 @@ MonoBehaviour:
   xMin: 10
   xMax: 16
   HideCooltime: 5
+  stageManager: {fileID: 0}
   Arrow: {fileID: 5102587279057821625, guid: 875bc888f077b0b4493fbb3015018e86, type: 3}
 --- !u!70 &7866124323731136619
 CapsuleCollider2D:
